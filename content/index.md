@@ -16,5 +16,6 @@ Ngoài ra, Hội Thánh còn trình bày trọn mầu nhiệm Chúa Kitô qua ch
 
 # Các chủ đề khác
 
-1. [[Lòng sùng kính Mẹ Maria và các thánh]]
-2. [[Về việc giữ chay và kiêng thịt]]
+1. [[Lòng sùng kính các thánh]]
+2. [[Lòng sùng kính Đức Maria và chuỗi Mân Côi]]
+3. [[Về việc giữ chay và kiêng thịt]]

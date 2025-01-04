@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "vi-VN",
-    baseUrl: "giaolyvaodoi.minhhikari.com",
+    baseUrl: "giaolyvaodoi2024.minhhikari.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,

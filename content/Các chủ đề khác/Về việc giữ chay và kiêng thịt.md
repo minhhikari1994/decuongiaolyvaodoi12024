@@ -5,7 +5,7 @@
 - Tuổi kiêng thịt: Từ 14 tuổi trở lên
 - Ngày buộc giữ chay và kiêng thịt: [[Mùa Chay#Thứ tư Lễ Tro|Thứ Tư Lễ Tro]] và [[Tam Nhật Vượt Qua#Thứ sáu Tuần Thánh - Nghi thức tưởng niệm cuộc thương khó Chúa Jesus|Thứ Sáu Tuần Thánh]] 
 
-![[LuatGiuChayKiengThit2023.png]]
+![[LuatGiuChayKiengThit2023.jpg]]
 (Nguồn ảnh từ FB của TGPSG: https://www.facebook.com/photo?fbid=3352106008362254&set=a.1409390802633794 )
 # Một số tìm hiểu về tinh thần giữ chay, kiêng thịt của người Công Giáo
 
